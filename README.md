@@ -1,6 +1,5 @@
 # AgenticAI-From-Scratch
 
-# Agentic AI From Scratch
 
 A beginner-friendly, hands-on journey into AI agents and Agentic AI. This repository documents daily lessons, experiments, and projects built step by step with Python and Gemini.
 
